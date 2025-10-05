@@ -30,6 +30,7 @@
 
 #### Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/-H2-1F618D?logo=h2&logoColor=white)
 
 #### API & Инструменты
 ![REST API](https://img.shields.io/badge/-REST%20API-000000?logo=fastapi&logoColor=white)
