@@ -23,6 +23,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59B3C2?logo=hibernate&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=grpc&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?logo=apachekafka&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-E42341?logo=junit&logoColor=white)
 ![Mockito](https://img.shields.io/badge/-Mockito-C91D2F?logo=mockito&logoColor=white)
 
