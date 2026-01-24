@@ -1,7 +1,7 @@
 ### Привет, я Владимир! 👋
 
 🌱 Я — начинающий **Java-разработчик** из Москвы.  
-В 2024 году начал свой путь в IT на курсе **[Яндекс Практикум — Java Developer](https://praktikum.yandex.ru/)**, где активно обучаюсь и сейчас.  
+В октябре 2024 года начал свой путь в IT на курсе **[Яндекс Практикум — Java Developer](https://praktikum.yandex.ru/)**,  успешно завершив его в январе 2025 года.  
 Ранее получил образование в **Московском политехническом университете** (бывш. МАМИ) на факультете автоматизации технологических процессов и производств — это дало мне сильный инженерный фундамент.
 
 🚀 Цель — стать профессиональным backend-разработчиком, писать чистый, тестируемый и масштабируемый код.
@@ -11,7 +11,8 @@
 ### 💬 Что я чувствую к профессии
 
 > Мне нравится, что в разработке **одну и ту же задачу можно решить разными способами** — всегда есть место для экспериментов.  
-Технологии быстро развиваются, и **учиться можно бесконечно** — а это делает профессию живой и интересной.  
+Технологии быстро развиваются, и **учиться можно бесконечно** — а это делает профессию живой и интересной.
+> Особенно увлекают вопросы проектирования надёжных распределённых систем: как сделать сервисы устойчивыми к сбоям, как грамотно выделять границы ответственности (DDD) и как обеспечить безопасность и конфиденциальность данных  
 > Готов учиться, расти и вкладываться в команду, которая ценит развитие и качество кода.
 
 ---
@@ -22,6 +23,8 @@
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59B3C2?logo=hibernate&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=grpc&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?logo=apachekafka&logoColor=white)
@@ -40,7 +43,6 @@
 #### Build & DevOps
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
 ---
 
